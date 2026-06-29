@@ -1,0 +1,633 @@
+canonical_identifier: bkk:krp/KR3eh043/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh043/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 祕傳大麻瘋方
+  identifiers:
+    krp: KR3eh043
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh043.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh043_000-jc.yaml, hash: 'sha256:2956325fd5568339aaa61018619eabcf569e0ef6bcc8c63b2cc5c3793f5fcfef'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh043_000-jc.markers.yaml, hash: 'sha256:ee8a04fdfd0621bb33992c0cd432b150f0943d0e0b3fe7eb990c77d4869245da'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d15.h1s1
+    span:
+    - front
+    - 0
+    - 1312
+  label: 瘋病又一治法次序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 8367
+  label: 三十六種大麻瘋症神效方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d3.h1s1
+    span:
+    - body
+    - 8367
+    - 8566
+  label: 癘瘋病淺論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d4.h1s1
+    span:
+    - body
+    - 8566
+    - 8603
+  label: 瘋病八不治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d5.h1s1
+    span:
+    - body
+    - 8603
+    - 8640
+  label: 瘋病八難治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d6.h1s1
+    span:
+    - body
+    - 8640
+    - 8705
+  label: 瘋病八死症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d7.h1s1
+    span:
+    - body
+    - 8705
+    - 8819
+  label: 瘋病辨驗法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d8.h1s1
+    span:
+    - body
+    - 8819
+    - 8844
+  label: 瘋病禁治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d9.h1s1
+    span:
+    - body
+    - 8844
+    - 8870
+  label: 瘋病戒忌法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d10.h1s1
+    span:
+    - body
+    - 8870
+    - 8953
+  label: 瘋病靜養法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d11.h1s1
+    span:
+    - body
+    - 8953
+    - 8998
+  label: 瘋病食淡法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d12.h1s1
+    span:
+    - body
+    - 8998
+    - 9033
+  label: 瘋病宜食品
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d13.h1s1
+    span:
+    - body
+    - 9033
+    - 10680
+  label: 瘋病借用諸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d14.h1s1
+    span:
+    - body
+    - 10680
+    - 11167
+  label: 瘋病另一名目形狀鑑別法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d16.h1s1
+    span:
+    - body
+    - 11167
+    - 13927
+  label: 回生錄治瘋法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d17.h1s1
+    span:
+    - body
+    - 13927
+    - 14148
+  label: 金蟬脫殼方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d18.h1s1
+    span:
+    - body
+    - 14148
+    - 14207
+  label: 桃花生肌散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d19.h1s1
+    span:
+    - body
+    - 14207
+    - 14336
+  label: 宣毒通氣丸五日一次去臟內熱毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d20.h1s1
+    span:
+    - body
+    - 14336
+    - 14391
+  label: 藥性簡記以備隨方加用
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d21.h1s1
+    span:
+    - body
+    - 14391
+    - 14620
+  label: 藥品制用記要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d22.h1s1
+    span:
+    - body
+    - 14620
+    - 14710
+  label: 預免瘋病方與患人接近者服之神效
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d23.h1s1
+    span:
+    - body
+    - 14710
+    - 14751
+  label: 遍身大爛敷藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d24.h1s1
+    span:
+    - body
+    - 14751
+    - 14785
+  label: 柏葉丸方能生眉發
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d25.h1s1
+    span:
+    - body
+    - 14785
+    - 14925
+  label: 黑虎丹治大瘋並治一切諸風惡疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d26.h1s1
+    span:
+    - body
+    - 14925
+    - 14988
+  label: 瘡如樹皮搽藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d27.h1s1
+    span:
+    - body
+    - 14988
+    - 16052
+  label: 治各瘋配藥法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d28.h1s1
+    span:
+    - body
+    - 16052
+    - 16130
+  label: 烏蛇丸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d29.h1s1
+    span:
+    - body
+    - 16130
+    - 16176
+  label: 敷藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d30.h1s1
+    span:
+    - body
+    - 16176
+    - 16214
+  label: 生眉毛藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d31.h1s1
+    span:
+    - body
+    - 16214
+    - 16299
+  label: 豨薟丸原方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d32.h1s1
+    span:
+    - body
+    - 16299
+    - 16810
+  label: 加減豨薟丸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d33.h1s1
+    span:
+    - body
+    - 16810
+    - 16918
+  label: 浸酒方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d34.h1s1
+    span:
+    - body
+    - 16918
+    - 16955
+  label: 簡便洗浴方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d35.h1s1
+    span:
+    - body
+    - 16955
+    - 17030
+  label: 擦藥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d36.h1s1
+    span:
+    - body
+    - 17030
+    - 17065
+  label: 紫雲白癜破皮三等瘋方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d37.h1s1
+    span:
+    - body
+    - 17065
+    - 17138
+  label: 又三等瘋酒方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d38.h1s1
+    span:
+    - body
+    - 17138
+    - 17225
+  label: 麻瘋出汗方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d39.h1s1
+    span:
+    - body
+    - 17225
+    - 17413
+  label: 仙傳急救麻瘋法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d40.h1s1
+    span:
+    - body
+    - 17413
+    - 17663
+  label: 妙應黑白散
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d41.h1s1
+    span:
+    - body
+    - 17663
+    - 17863
+  label: 除瘋丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d42.h1s1
+    span:
+    - body
+    - 17863
+    - 17944
+  label: 大瘋退熱散大寒之劑必倒脾胃若非火熱不可輕試
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d43.h1s1
+    span:
+    - body
+    - 17944
+    - 18034
+  label: 洗浴方治瘡癬如魚鱗之形或癢痛皆可治之
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d44.h1s1
+    span:
+    - body
+    - 18034
+    - 18170
+  label: 治疼痛走注瘋症方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d45.h1s1
+    span:
+    - body
+    - 18170
+    - 18333
+  label: 金棗丹治諸般麻瘋並痛瘋頑麻癱瘓
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d46.h1s1
+    span:
+    - body
+    - 18333
+    - 18405
+  label: 治瘋丸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d47.h1s1
+    span:
+    - body
+    - 18405
+    - 18562
+  label: 升煉擦藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d48.h1s1
+    span:
+    - body
+    - 18562
+    - 18678
+  label: 統治三十六種瘋疾神方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d49.h1s1
+    span:
+    - body
+    - 18678
+    - 18852
+  label: 萬靈龍蛇換骨丹專治三十六症大麻瘋症神效仙方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d50.h1s1
+    span:
+    - body
+    - 18852
+    - 19056
+  label: 除根丸藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d51.h1s1
+    span:
+    - body
+    - 19056
+    - 19198
+  label: 治大麻瘋仙方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d52.h1s1
+    span:
+    - body
+    - 19198
+    - 19386
+  label: 治大麻瘋洗浴取蟲法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d53.h1s1
+    span:
+    - body
+    - 19386
+    - 19487
+  label: 大麻瘋發汗洗浴方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d54.h1s1
+    span:
+    - body
+    - 19487
+    - 19552
+  label: 雄漆丸治瘋如神
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d55.h1s1
+    span:
+    - body
+    - 19552
+    - 19616
+  label: 豨薟膏入肝腎二經補元氣祛風濕明耳目久服延年
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d56.h1s1
+    span:
+    - body
+    - 19616
+    - 19663
+  label: 曹邑宰傳酒藥方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d57.h1s1
+    span:
+    - body
+    - 19663
+    - 19690
+  label: 治口眼歪斜立效方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d58.h1s1
+    span:
+    - body
+    - 19690
+    - 19725
+  label: 治半爿頭痛瘋方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d59.h1s1
+    span:
+    - body
+    - 19725
+    - 19899
+  label: 治大麻瘋神效驗方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d60.h1s1
+    span:
+    - body
+    - 19899
+    - 19988
+  label: 治癱瘓烏龍方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d61.h1s1
+    span:
+    - body
+    - 19988
+    - 20107
+  label: 治鵝掌風方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh043_jc_000-d62.h1s1
+    span:
+    - body
+    - 20107
+    - 20201
+  label: 愈瘋丸治白點瘋
+  type: section
+  level: 1
+hash: sha256:2c9e546ae1e77e919696bb2abbf3a7a77a8bbe7f43ad06977759a6b905956bc4
