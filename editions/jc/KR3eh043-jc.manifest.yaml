@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh043_000-jc.yaml, hash: 'sha256:2956325fd5568339aaa61018619eabcf569e0ef6bcc8c63b2cc5c3793f5fcfef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh043_000-jc.markers.yaml, hash: 'sha256:ee8a04fdfd0621bb33992c0cd432b150f0943d0e0b3fe7eb990c77d4869245da'}
+  - {seq: 0, role: markers, filename: assets/KR3eh043_000-jc.markers.yaml, hash: 'sha256:18f22e4f9de1953eeea83f3b438e28f4b81b7d0a0032288bbce86fae9ae15c61'}
 table_of_contents:
 - ref:
     seq: 0
@@ -630,4 +630,4 @@ table_of_contents:
   label: 愈瘋丸治白點瘋
   type: section
   level: 1
-hash: sha256:2c9e546ae1e77e919696bb2abbf3a7a77a8bbe7f43ad06977759a6b905956bc4
+hash: sha256:b7be1940662717f938d3c33e4cd8e87da10c36b4957abae394b8d879f1772379

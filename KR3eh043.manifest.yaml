@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh043_000.yaml, hash: 'sha256:1abbf2d3b01e3e15f365a82df9913d01742d6c78cddd2040c39dfbe6e54c7b68'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh043_000.markers.yaml, hash: 'sha256:1a5ab1e1018896163290bbbe2e24da6b89d52f0cf6dc64946cf8d6025b6b40ef'}
+  - {seq: 0, role: markers, filename: assets/KR3eh043_000.markers.yaml, hash: 'sha256:98915c1c7b2a692b71234a090806489f16a8b0d0387cf00ae74552abccd703cd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -630,7 +630,7 @@ table_of_contents:
   label: 愈瘋丸治白點瘋
   type: section
   level: 1
-hash: sha256:eb0f6c775785093f140c041a6f6a05d58e7345576292f47d8c4028d89b6d6907
+hash: sha256:ebce3243d1ea94bd1f0c47243d0563c6c856be3167183948be506ae806ba70d9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
